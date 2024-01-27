@@ -1,0 +1,60 @@
+JavaScript Syllabus 
+
+1- Fundamentals/Basics              2-Advance JavaScript
+
+    1-Fundamentals/Basics/JavaScript the Language
+        =JS History, JS intro
+        -Run time env (Node)
+        -Variables
+        -Conditionals (if else else if switch ternary)
+        -loops (for while do while for each for in )
+        -functions (Inbuilt functions,custom functions)
+        -call stack 
+        -array
+        -array method ( map, filter ,reduce)
+        -Object 
+        -Object Destructuring
+        -Call apply bind 
+        -Spread and rest op
+        -browser API ()
+        
+------------------------------------------------------------------------------------------------------------------
+
+            2-Advance JavaScript
+            -HOF
+            -Callbacks
+            -Callback Hell (pros and cons)
+            -Inversion of control
+            -Promises 
+            -Promise resolve and reject
+            -Promise Hell (pros and cons)
+            -Promise Chaining
+            -Async AWait
+            -closures
+            -scopes
+            -oops()
+            -class and object
+            -this
+            -new 
+            -constructor
+            -prototypes
+            -__proto__
+            -Protoypal inheritance 
+            -Iterators and Generators
+            -Async behaviour of JS
+
+
+---------------------------------------------------------------------------------------------------------------------------
+sum of first 1-- natural numbers
+1+2+3+4+....+100
+
+
+
+
+
+
+
+
+
+
+
